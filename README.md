@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, <a href="https://www.linkedin.com/in/kaua-santos/">I'm Kauã dos Santos</a> 👋</h1>
 
-* 🌍  I'm currently studying Computer Science at Universidade Anhembi Morumbi
+* 💻  I'm currently studying Computer Science at Universidade Anhembi Morumbi
 * ✉️  You can contact me at [kauassilva1@gmail.com](mailto:kauassilva1@gmail.com) or LinkedIn (link below)
 
 ### Tech Stacks
