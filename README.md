@@ -1,31 +1,24 @@
-<h1 align="left">Hi there, <a href="https://www.linkedin.com/in/kaua-santos/">I'm Kauã dos Santos</a> 👋</h1>
+# Kauã dos Santos Silva
 
-* 💻  I'm currently studying Computer Science at Universidade Anhembi Morumbi
-* ✉️  You can contact me at [kauassilva1@gmail.com](mailto:kauassilva1@gmail.com) or LinkedIn (link below)
+Desejo aprender e crescer como desenvolvedor de software. Desde que comecei a faculdade, tenho me dedicado muito ao estudo da tecnologia e suas tendências, além de buscar aprimorar meu conhecimento da língua inglesa.
 
-### Tech Stacks
+## Conecte-se comigo
 
-<p>
-  <img src="https://kauassilva.github.io/Portfolio/assets/images/icons/java-icon.svg" width="36" height="36" alt="Java"/>
-  <img src="https://kauassilva.github.io/Portfolio/assets/images/icons/springio-icon.svg" width="36" height="36" alt="Spring Boot"/>
-  <img src="https://kauassilva.github.io/Portfolio/assets/images/icons/mysql-icon.svg" width="36" height="36" alt="MySQL"/>
-  <img src="https://kauassilva.github.io/Portfolio/assets/images/icons/w3_html5-icon.svg" width="36" height="36" alt="HTML"/>
-  <img src="https://kauassilva.github.io/Portfolio/assets/images/icons/w3_css-icon.svg" width="36" height="36" alt="CSS"/>
-  <img src="https://kauassilva.github.io/Portfolio/assets/images/icons/getbootstrap-icon.svg" width="36" height="36" alt="Bootstrap"/>
-  <img src="https://kauassilva.github.io/Portfolio/assets/images/icons/git-scm-icon.svg" width="36" height="36" alt="Git"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-santos/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauassilva)
 
-### Socials
 
-<p>
-  <a href="https://www.github.com/kauassilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/kaua-santos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+## Habilidades
 
-### Badges
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Spring](https://img.shields.io/badge/spring-000.svg?style=for-the-badge&logo=spring)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-boostrap-000?style=for-the-badge&logo=bootstrap)
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauassilva&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="kauassilva's GitHub stats" />
+## GitHub stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauassilva&langs_count=5&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="195px"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauassilva&theme=transparent&bg_color=000&border_color=968975&show_icons=true&icon_color=968975&title_color=968975&hide_title=true&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kauassilva&layout=compact&bg_color=000&border_color=968975&title_color=968975&&text_color=FFF)
