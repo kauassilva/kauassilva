@@ -21,4 +21,4 @@ Desejo aprender e crescer como desenvolvedor de software. Desde que comecei a fa
 ## GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauassilva&theme=transparent&bg_color=000&border_color=968975&show_icons=true&icon_color=968975&title_color=968975&hide_title=true&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauassilva&layout=compact&theme=transparent&bg_color=000&border_color=968975&title_color=968975)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauassilva&layout=compact&theme=transparent&bg_color=000&border_color=968975&title_color=968975&langs_count=5)
